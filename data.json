@@ -1,0 +1,23 @@
+{
+    "post" : [
+        {
+            "id": 1,
+            "building" : "/static/images/empty-chip-bag.jpg",
+            "roomnum" : "Chip Bag4",
+            "description" : ""
+        },
+
+        {
+            "id": 2,
+            "building" : "/static/images/empty-chip-bag.jpg",
+            "roomnum" : "Chip Bag3",
+            "description" : ""
+        },
+        {
+            "id": 3,
+            "building" : "/static/images/empty-chip-bag.jpg",
+            "roomnum" : "Chip Bag2",
+            "description" : ""
+        }
+    ]
+}
