@@ -1,2 +1,8 @@
-# PINAPP
-mobile app
+#  F A R K Y T R A V E L
+P R O J E C T - P S U P I N #
+
+
+แชร์สถานที่ท่องเที่ยว พร้อมทั้ง ลงรูป + คอมเมนต์และสามารถแก้ไขได้
+
+# เปลี่ยน localhost เป็น ip ด้วยนะ
+
